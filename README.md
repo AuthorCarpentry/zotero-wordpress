@@ -8,6 +8,7 @@ Author Carpentry : Using Zotero, Wordpress, and ZotPress to generate active bibl
 **Lesson status: In Development**
 
 ##Learning Objectives:
+
 - Basic of the Zotero API
 - Introduction to Zotpress
 - Create a bibliography from a collection in your Zotero library on Wordpress
