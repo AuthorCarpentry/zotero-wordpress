@@ -5,7 +5,7 @@ Author Carpentry : Using Zotero, Wordpress, and ZotPress to generate active bibl
 
 *Lesson Maintainers: Sebastian Karcher*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ##What you will learn:
 
